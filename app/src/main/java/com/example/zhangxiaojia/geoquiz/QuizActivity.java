@@ -62,7 +62,7 @@ public class QuizActivity extends AppCompatActivity implements View.OnClickListe
 
         mFalseButton = (Button) findViewById(R.id.false_button);
         mFalseButton.setOnClickListener(this);
-        
+
         mPrevButton = (ImageButton) findViewById(R.id.prev_button);
         mPrevButton.setOnClickListener(this);
 
